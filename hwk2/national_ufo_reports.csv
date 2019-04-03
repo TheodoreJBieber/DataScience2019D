@@ -1,0 +1,449 @@
+date_time,year,month,city,state,shape,posted
+8/30/2018 22:15,2018,8,Clarkston,MI,Circle,9/13/2018
+8/30/2018 21:36,2018,8,Commerce,GA,Circle,8/31/2018
+8/29/2018 22:00,2018,8,Amarillo,TX,Circle,8/31/2018
+8/29/2018 8:33,2018,8,Sioux Falls,SD,Circle,8/31/2018
+8/28/2018 21:20,2018,8,Castro valley,CA,Circle,8/31/2018
+8/28/2018 3:35,2018,8,Mt. Eden,KY,Circle,8/31/2018
+8/27/2018 21:50,2018,8,Charleston,WV,Circle,1/24/2019
+8/27/2018 21:30,2018,8,Barrie (Canada),ON,Triangle,3/29/2019
+8/27/2018 21:27,2018,8,Warsaw,MO,Triangle,8/31/2018
+8/27/2018 21:00,2018,8,Albuquerque,NM,Circle,8/31/2018
+8/27/2018 20:40,2018,8,St. Charles,MO,Circle,8/31/2018
+8/25/2018 22:00,2018,8,Canfon,GA,Circle,8/31/2018
+8/25/2018 21:35,2018,8,Salem,OR,Triangle,8/31/2018
+8/25/2018 18:00,2018,8,Northbridge,MA,Circle,8/31/2018
+8/25/2018 17:52,2018,8,seaside park,NJ,Circle,8/31/2018
+8/25/2018 14:00,2018,8,Albuquerque,NM,Circle,8/31/2018
+8/24/2018 23:15,2018,8,Saint George,UT,Circle,8/31/2018
+8/24/2018 22:50,2018,8,Los Banos,CA,Triangle,8/31/2018
+8/24/2018 19:55,2018,8,East Peoria,IL,Triangle,9/13/2018
+8/23/2018 22:00,2018,8,Strathmore,CA,Triangle,8/31/2018
+8/23/2018 8:15,2018,8,Milan,MI,Triangle,9/27/2018
+8/21/2018 19:00,2018,8,Eastford,CT,Triangle,8/22/2018
+8/20/2018 22:00,2018,8,Quinault,WA,Circle,8/31/2018
+8/20/2018 21:36,2018,8,Blacklick,OH,Circle,8/22/2018
+8/20/2018 0:20,2018,8,Longwood,FL,Triangle,8/22/2018
+8/19/2018 19:20,2018,8,Hyattsville,MD,Circle,8/22/2018
+8/18/2018 22:45,2018,8,Vermont (45 minutes from Quebec border),VT,Circle,8/31/2018
+8/18/2018 22:00,2018,8,Altamonte Springs,FL,Triangle,8/22/2018
+8/18/2018 21:45,2018,8,London (UK/England),,Triangle,8/22/2018
+8/18/2018 20:55,2018,8,Orlando,FL,Circle,8/22/2018
+8/18/2018 19:20,2018,8,St. Augustine,FL,Circle,8/22/2018
+8/18/2018 11:35,2018,8,Los Lunas,NM,Circle,8/22/2018
+8/18/2018 0:30,2018,8,Sudbury (Canada),ON,Circle,2/1/2019
+8/17/2018 21:30,2018,8,Bristol,ME,Triangle,8/22/2018
+8/17/2018 20:30,2018,8,Ottawa (Canada),QC,Triangle,8/22/2018
+8/17/2018 19:30,2018,8,El Paso,TX,Circle,8/22/2018
+8/17/2018 17:07,2018,8,Gates,OR,Circle,10/6/2018
+8/16/2018 21:18,2018,8,Plainfield,NH,Triangle,8/17/2018
+8/15/2018 22:15,2018,8,North Highlands,CA,Circle,8/17/2018
+8/15/2018 5:00,2018,8,Grant,FL,Circle,10/6/2018
+8/14/2018 21:00,2018,8,Sausalito,CA,Circle,8/31/2018
+8/14/2018 19:00,2018,8,Myrtle Beach,SC,Circle,8/17/2018
+8/13/2018 4:30,2018,8,Lawrence,KS,Triangle,8/17/2018
+8/13/2018 3:40,2018,8,Beaverton,OR,Triangle,3/29/2019
+8/12/2018 23:00,2018,8,Dublin,GA,Circle,8/22/2018
+8/12/2018 21:00,2018,8,Daytona Beach,FL,Circle,8/17/2018
+8/12/2018 0:15,2018,8,Forebay,CA,Triangle,8/17/2018
+8/11/2018 23:00,2018,8,Newbury,VT,Triangle,8/17/2018
+8/11/2018 23:00,2018,8,Chillicothe,OH,Circle,8/17/2018
+8/11/2018 22:00,2018,8,Morristown,TN,Circle,8/17/2018
+8/11/2018 7:00,2018,8,Minnetonka,MN,Circle,8/17/2018
+8/9/2018 4:55,2018,8,Downington,PA,Triangle,8/10/2018
+8/8/2018 21:30,2018,8,Bradford,RI,Circle,8/10/2018
+8/7/2018 22:53,2018,8,Krasnodar (Russia),,Triangle,10/6/2018
+8/7/2018 20:00,2018,8,Madera,CA,Triangle,8/10/2018
+8/7/2018 8:44,2018,8,Boise,ID,Circle,8/17/2018
+8/5/2018 21:45,2018,8,Nea Peramos (Greece),,Circle,8/10/2018
+8/5/2018 21:15,2018,8,Gardner,MA,Circle,8/10/2018
+8/4/2018 21:30,2018,8,Ottawa (Canada),ON,Triangle,8/10/2018
+8/4/2018 21:30,2018,8,Morris,IL,Triangle,8/10/2018
+8/4/2018 21:00,2018,8,Danbury,CT,Triangle,8/10/2018
+8/4/2018 18:00,2018,8,Eastchester,NY,Triangle,8/10/2018
+8/4/2018 13:33,2018,8,Houston,TX,Circle,8/10/2018
+8/3/2018 23:00,2018,8,Port St. Lucie,FL,Circle,8/10/2018
+8/2/2018 22:15,2018,8,Ortonville,MI,Circle,8/10/2018
+8/2/2018 20:00,2018,8,Franklin,TN,Triangle,8/10/2018
+8/2/2018 20:00,2018,8,Florence,KY,Circle,8/10/2018
+8/1/2018 23:50,2018,8,Detroit,MI,Triangle,8/10/2018
+8/1/2018 22:00,2018,8,Zebulon,NC,Circle,8/10/2018
+3/31/2018 22:30,2018,3,Port St. Lucie,FL,Circle,4/5/2018
+3/31/2018 22:00,2018,3,Toronto (Canada),ON,Circle,4/5/2018
+3/31/2018 18:40,2018,3,Northampton,MA,Triangle,4/5/2018
+3/31/2018 13:00,2018,3,Manchester,MD,Circle,4/5/2018
+3/31/2018 9:15,2018,3,Edmonton (Canada),AB,Circle,4/5/2018
+3/30/2018 20:45,2018,3,Stockton,CA,Triangle,4/5/2018
+3/29/2018 11:00,2018,3,Las Vegas (northwest),NV,Circle,4/5/2018
+3/28/2018 6:00,2018,3,Ocala,FL,Circle,3/29/2018
+3/26/2018 19:00,2018,3,Charlton,MA,Circle,3/29/2018
+3/25/2018 10:00,2018,3,El Cajon,CA,Triangle,3/29/2018
+3/24/2018 6:00,2018,3,Bloomingburg,NY,Circle,3/29/2018
+3/22/2018 22:30,2018,3,Anderson,CA,Triangle,3/29/2018
+3/22/2018 20:05,2018,3,Indialantic,FL,Circle,3/29/2018
+3/21/2018,2018,3,Ajo,AZ,Circle,4/19/2018
+3/20/2018 20:30,2018,3,Billerica,MA,Circle,3/23/2018
+3/19/2018 20:40,2018,3,Steubenville,OH,Triangle,3/23/2018
+3/19/2018 20:40,2018,3,Steubenville,OH,Triangle,3/23/2018
+3/18/2018 22:00,2018,3,Fayetteville,GA,Circle,3/23/2018
+3/18/2018 20:30,2018,3,Largo,FL,Circle,3/23/2018
+3/18/2018 3:30,2018,3,Orlando,FL,Triangle,3/23/2018
+3/18/2018 1:47,2018,3,Linwood,MI,Triangle,3/29/2018
+3/17/2018 23:00,2018,3,Everett,WA,Circle,4/13/2018
+3/16/2018 20:30,2018,3,Beloit,WI,Triangle,6/21/2018
+3/16/2018 20:30,2018,3,Beloit,WI,Triangle,6/21/2018
+3/15/2018 13:15,2018,3,Egg harbor township,NJ,Triangle,5/15/2018
+3/13/2018 7:00,2018,3,Utica,NY,Circle,3/23/2018
+3/13/2018 6:30,2018,3,Taos,NM,Triangle,3/23/2018
+3/12/2018 22:55,2018,3,Beechcreek,KY,Circle,3/23/2018
+3/12/2018 16:00,2018,3,Pueblo West,CO,Circle,3/23/2018
+3/12/2018 2:55,2018,3,Boise,ID,Triangle,3/23/2018
+3/12/2018 0:23,2018,3,Gloucester,MA,Circle,3/29/2018
+3/11/2018 21:00,2018,3,Chuluota,FL,Circle,3/23/2018
+3/11/2018 16:15,2018,3,Tampa,FL,Circle,3/23/2018
+3/11/2018 10:40,2018,3,Waltham (west of),MA,Circle,3/23/2018
+3/10/2018 21:00,2018,3,Centreville,VA,Triangle,3/23/2018
+3/7/2018 19:11,2018,3,Camp Hill,PA,Triangle,3/8/2018
+3/6/2018 22:00,2018,3,Granada (Spain),,Circle,6/7/2018
+3/6/2018 2:34,2018,3,Winchester,VA,Triangle,3/8/2018
+3/5/2018 21:50,2018,3,Fairfield view,CT,Circle,3/8/2018
+3/5/2018 21:50,2018,3,Fairfield View,CT,Circle,3/8/2018
+3/5/2018 17:30,2018,3,Kline,SC,Circle,4/13/2018
+3/5/2018 17:15,2018,3,Souderton/Hatfield,PA,Circle,3/29/2018
+3/4/2018 20:45,2018,3,Irvington,AL,Circle,3/8/2018
+3/4/2018 19:00,2018,3,Sioux Falls,SD,Circle,3/8/2018
+3/4/2018 0:00,2018,3,Tarboro,NC,Circle,3/23/2018
+3/3/2018 21:30,2018,3,Kent,WA,Triangle,3/8/2018
+3/3/2018 19:15,2018,3,Charlotte,NC,Circle,3/8/2018
+3/3/2018 14:05,2018,3,Phoenix,AZ,Circle,2/27/2019
+3/2/2018 22:47,2018,3,Lone Jack,MO,Circle,3/8/2018
+3/2/2018 22:30,2018,3,Cotopaxi,CO,Circle,3/23/2018
+3/2/2018 20:30,2018,3,Windber,PA,Triangle,3/8/2018
+3/2/2018 1:00,2018,3,Colquitt,GA,Circle,3/8/2018
+3/2/2018,2018,3,Lutherville-Timonium,MD,Circle,3/23/2018
+7/31/2018 23:00,2018,7,Bakersfield,CA,Triangle,8/10/2018
+7/31/2018 5:30,2018,7,Atascadero,CA,Circle,8/10/2018
+7/29/2018 20:25,2018,7,Little Egg Harbor,NJ,Circle,8/10/2018
+7/29/2018 20:00,2018,7,Loveland,CO,Circle,8/10/2018
+7/29/2018 16:30,2018,7,Batesville,MS,Triangle,8/10/2018
+7/28/2018 23:55,2018,7,Lohman,MO,Triangle,8/10/2018
+7/28/2018 23:45,2018,7,Pittsburgh,PA,Circle,8/10/2018
+7/28/2018 22:47,2018,7,Charlotte,NC,Circle,8/10/2018
+7/28/2018 21:30,2018,7,Pula (Croatia),,Circle,11/9/2018
+7/28/2018 21:30,2018,7,Pula (Croatia),,Circle,11/9/2018
+7/27/2018 14:15,2018,7,Lone Tree,CO,Circle,8/10/2018
+7/25/2018 22:00,2018,7,Gig Harbor,WA,Circle,8/10/2018
+7/25/2018 21:30,2018,7,St. George Island,FL,Circle,8/10/2018
+7/25/2018 21:30,2018,7,St. George Island,FL,Circle,8/10/2018
+7/25/2018 0:50,2018,7,Middlesbrough (UK/England),,Circle,2/14/2019
+7/24/2018 23:00,2018,7,Eastanollee,GA,Circle,8/10/2018
+7/24/2018 22:15,2018,7,Hadley,MA,Triangle,8/10/2018
+7/22/2018 22:50,2018,7,Vacaville,CA,Triangle,8/10/2018
+7/22/2018 21:30,2018,7,Martinez,CA,Triangle,8/10/2018
+7/22/2018 20:30,2018,7,Matsusaka (Japan),,Triangle,2/27/2019
+7/22/2018 18:00,2018,7,Brookwood,AL,Triangle,8/10/2018
+7/22/2018 11:30,2018,7,Ridgefield,WA,Circle,8/10/2018
+7/22/2018 0:00,2018,7,Brewton,FL,Circle,8/10/2018
+7/21/2018 22:00,2018,7,Kansas City,KS,Triangle,8/10/2018
+7/21/2018 21:00,2018,7,Chattanooga,TN,Triangle,8/10/2018
+7/21/2018 21:00,2018,7,Ontario,CA,Circle,8/10/2018
+7/21/2018 19:56,2018,7,Las Vegas,NV,Triangle,8/10/2018
+7/21/2018 3:25,2018,7,Cranston,RI,Circle,8/10/2018
+7/20/2018 0:00,2018,7,Lilliwaup,WA,Circle,8/10/2018
+7/20/2018 21:00,2018,7,Lakeport,CA,Circle,8/10/2018
+7/19/2018 22:00,2018,7,Marfa,TX,Triangle,8/10/2018
+7/19/2018 20:45,2018,7,Topeka,KS,Circle,8/10/2018
+7/19/2018 9:20,2018,7,Beach Haven,NJ,Circle,8/10/2018
+7/19/2018 1:00,2018,7,Clear Lake,CA,Circle,8/10/2018
+7/17/2018 23:30,2018,7,Castro Valley,CA,Triangle,7/19/2018
+7/17/2018 21:00,2018,7,Ocala,FL,Circle,8/10/2018
+7/17/2018 18:50,2018,7,Bay St. George,NF,Circle,8/10/2018
+7/15/2018 22:30,2018,7,Carlotta,CA,Circle,1/17/2019
+7/15/2018 10:00,2018,7,Montgomery Creek,CA,Circle,7/19/2018
+7/15/2018 0:40,2018,7,Airdrie (Canada),AB,Triangle,7/19/2018
+7/14/2018 23:00,2018,7,Seaside,OR,Triangle,7/19/2018
+7/14/2018 19:00,2018,7,Seattle,WA,Circle,7/19/2018
+7/14/2018 1:00,2018,7,Atlantic Beach,FL,Triangle,7/19/2018
+7/14/2018 1:00,2018,7,Sterling Heights,MI,Circle,7/19/2018
+7/13/2018 17:06,2018,7,Bekasi (Singapore),,Triangle,7/13/2018
+7/13/2018 2:00,2018,7,Grass Valley,CA,Circle,7/19/2018
+7/13/2018 2:00,2018,7,Grass Valley,CA,Circle,7/19/2018
+7/13/2018 1:47,2018,7,Estero,FL,Circle,7/19/2018
+7/13/2018 0:00,2018,7,Leavenworth,WA,Circle,7/19/2018
+7/12/2018 5:10,2018,7,Tallahassee,FL,Circle,7/13/2018
+7/11/2018 18:00,2018,7,Moses Lake,WA,Circle,8/17/2018
+7/11/2018 16:30,2018,7,Los Feliz,CA,Circle,7/13/2018
+7/11/2018 1:00,2018,7,East Hartford,CT,Triangle,7/13/2018
+7/10/2018 22:00,2018,7,Topsail Island,,Triangle,7/13/2018
+7/10/2018 5:00,2018,7,Eau Claire,WI,Circle,7/13/2018
+7/10/2018 3:00,2018,7,Seabrook Beach,NH,Triangle,7/13/2018
+7/9/2018 22:30,2018,7,North Myrtle Beach,SC,Circle,7/19/2018
+7/9/2018 22:30,2018,7,North Myrtle Beach,SC,Circle,7/13/2018
+7/8/2018 20:40,2018,7,Blue Springs,MO,Circle,7/13/2018
+7/8/2018 20:28,2018,7,Vernon,CT,Triangle,7/13/2018
+7/8/2018 0:22,2018,7,Blaine,MN,Circle,7/13/2018
+7/7/2018 23:00,2018,7,Antelope,CA,Circle,7/13/2018
+7/6/2018 19:00,2018,7,Saint Louis,MO,Triangle,7/13/2018
+7/6/2018 3:00,2018,7,Chestertown,NY,Circle,7/13/2018
+7/6/2018 1:00,2018,7,Grayling,MI,Circle,7/13/2018
+7/6/2018 0:10,2018,7,Hibbing,MN,Circle,7/13/2018
+7/5/2018 22:15,2018,7,Silverdale,WA,Circle,7/13/2018
+7/5/2018 21:00,2018,7,Seaside,OR,Circle,11/24/2018
+7/5/2018 16:15,2018,7,Spokane Valley,WA,Circle,7/13/2018
+7/4/2018 22:36,2018,7,Cherry Grove,SC,Circle,7/5/2018
+7/4/2018 22:30,2018,7,Elizabethtown,KY,Triangle,7/5/2018
+7/4/2018 22:00,2018,7,Wolfeboro,NH,Circle,7/13/2018
+7/4/2018 21:00,2018,7,Riverside,CA,Triangle,7/5/2018
+7/4/2018 21:00,2018,7,New Britain,CT,Circle,2/14/2019
+7/4/2018 2:00,2018,7,Conway,SC,Circle,7/5/2018
+7/3/2018 22:59,2018,7,Burbank/Glendale,CA,Circle,7/5/2018
+7/3/2018 22:05,2018,7,Citrus Heights,CA,Circle,7/5/2018
+7/1/2018 23:00,2018,7,Englewood,CO,Triangle,7/13/2018
+7/1/2018 19:00,2018,7,North Hollywood,CA,Triangle,7/5/2018
+6/30/2018 23:00,2018,6,South Ogden,UT,Circle,7/5/2018
+6/30/2018 23:00,2018,6,Port Allegany,PA,Circle,7/5/2018
+6/30/2018 16:14,2018,6,Central Point,OR,Circle,7/5/2018
+6/29/2018 9:10,2018,6,Santa Fe,NM,Circle,7/5/2018
+6/29/2018 6:00,2018,6,Leesburg,FL,Circle,7/5/2018
+6/28/2018 21:45,2018,6,Monson,MA,Circle,7/5/2018
+6/27/2018 16:24,2018,6,North Port,FL,Circle,6/28/2018
+6/27/2018 0:00,2018,6,Byron,CA,Triangle,7/5/2018
+6/25/2018 21:03,2018,6,Woodstock,GA,Circle,6/28/2018
+6/25/2018 18:30,2018,6,Conway,SC,Triangle,7/19/2018
+6/24/2018 22:30,2018,6,Ammon,ID,Triangle,6/28/2018
+6/23/2018 15:00,2018,6,Cudahy,WI,Circle,6/28/2018
+6/22/2018 10:00,2018,6,Long Beach,NY,Circle,6/28/2018
+6/22/2018 1:30,2018,6,Princeton,WV,Triangle,6/28/2018
+6/21/2018 16:00,2018,6,Coon Rapids,MN,Triangle,7/5/2018
+6/21/2018 1:30,2018,6,Richmondville,NY,Circle,6/21/2018
+6/17/2018 23:00,2018,6,Bettendorf,IA,Circle,6/21/2018
+6/17/2018 22:00,2018,6,Trenton,NJ,Circle,6/21/2018
+6/17/2018 21:30,2018,6,Brainerd,MN,Triangle,6/21/2018
+6/17/2018 21:00,2018,6,Farmington,MO,Triangle,6/21/2018
+6/17/2018 17:20,2018,6,Marshall,WI,Triangle,7/5/2018
+6/14/2018 23:00,2018,6,Calgary (Canada),AB,Circle,6/21/2018
+6/14/2018 22:00,2018,6,Albuquerque,NM,Triangle,6/15/2018
+6/13/2018 18:56,2018,6,Oshawa (Canada),ON,Circle,6/15/2018
+6/12/2018 23:00,2018,6,Dunlap,IL,Triangle,7/5/2018
+6/12/2018 22:10,2018,6,Binghamton,NY,Triangle,6/15/2018
+6/11/2018 22:00,2018,6,Sarasota,FL,Circle,6/15/2018
+6/11/2018 2:00,2018,6,Bonners Ferry,ID,Circle,6/15/2018
+6/10/2018 20:00,2018,6,Mesa,AZ,Circle,6/15/2018
+6/10/2018 0:10,2018,6,Danbury,CT,Circle,6/15/2018
+6/9/2018 21:45,2018,6,Prosper,TX,Circle,6/15/2018
+6/8/2018 1:46,2018,6,Summerville,GA,Circle,6/15/2018
+6/7/2018 10:15,2018,6,Rye,NH,Circle,6/15/2018
+6/6/2018 2:00,2018,6,Mesa (Historic part),AZ,Circle,6/7/2018
+6/5/2018 21:00,2018,6,Claryville,KY,Triangle,6/7/2018
+6/5/2018 1:00,2018,6,Charleston,SC,Triangle,6/7/2018
+6/4/2018 22:30,2018,6,Danbury,CT,Triangle,6/7/2018
+6/4/2018 21:35,2018,6,Trenyon,NJ,Circle,6/7/2018
+6/4/2018 1:00,2018,6,Saint Cloud,FL,Triangle,6/7/2018
+6/3/2018 22:30,2018,6,West Palm Beach,FL,Triangle,6/7/2018
+6/3/2018 14:42,2018,6,Swindon (UK/England),,Circle,6/7/2018
+6/3/2018 4:00,2018,6,Maple Shade,NJ,Circle,6/7/2018
+6/3/2018 0:25,2018,6,Lubbock,TX,Triangle,6/7/2018
+6/3/2018 0:25,2018,6,Linneus,ME,Circle,6/7/2018
+6/1/2018 22:35,2018,6,Sandy,UT,Triangle,6/7/2018
+4/30/2018 19:38,2018,4,Burnaby (Canada),BC,Circle,5/4/2018
+4/29/2018 11:00,2018,4,NW Las Vegas,NV,Circle,5/4/2018
+4/28/2018 21:50,2018,4,Suffolk,VA,Circle,5/4/2018
+4/28/2018 20:00,2018,4,Leskovac (Serbia),,Circle,5/4/2018
+4/27/2018 11:00,2018,4,Cordele,GA,Circle,5/4/2018
+4/27/2018 1:14,2018,4,Burlington,KY,Triangle,5/4/2018
+4/26/2018 22:30,2018,4,Austin,TX,Triangle,8/10/2018
+4/26/2018 4:15,2018,4,Burlington,NJ,Circle,4/26/2018
+4/25/2018 21:35,2018,4,Prineville,OR,Triangle,4/26/2018
+4/23/2018 21:10,2018,4,Rutland,VT,Circle,4/26/2018
+4/21/2018 23:20,2018,4,Saldus (Latvia),,Triangle,4/26/2018
+4/20/2018 22:00,2018,4,Ridgefield,CT,Circle,4/26/2018
+4/20/2018 20:00,2018,4,Northport,NY,Circle,5/10/2018
+4/19/2018 22:15,2018,4,Kansas City,KS,Circle,4/26/2018
+4/18/2018 20:00,2018,4,Foyil,OK,Circle,4/19/2018
+4/16/2018 23:00,2018,4,Boulder,CO,Triangle,4/19/2018
+4/16/2018 21:38,2018,4,Altoona,IA,Circle,4/19/2018
+4/14/2018 2:35,2018,4,Darien,CT,Circle,5/10/2018
+4/13/2018 21:18,2018,4,Grove City,PA,Triangle,4/19/2018
+4/13/2018 20:47,2018,4,Bensalem,PA,Circle,5/10/2018
+4/13/2018 1:30,2018,4,Great Barrington,MA,Circle,4/19/2018
+4/12/2018 20:35,2018,4,Spokane Valley,WA,Circle,4/13/2018
+4/12/2018 7:00,2018,4,Brandywine,DE,Triangle,4/13/2018
+4/12/2018 1:30,2018,4,Valdez,AK,Circle,7/5/2018
+4/11/2018 23:15,2018,4,Rochester,NY,Triangle,4/13/2018
+4/11/2018 21:00,2018,4,Sumter,SC,Triangle,4/26/2018
+4/10/2018 19:00,2018,4,Albatera,ND,Circle,4/19/2018
+4/10/2018 0:00,2018,4,Heber City,UT,Triangle,5/10/2018
+4/9/2018 21:00,2018,4,Toronto (Canada),ON,Circle,4/13/2018
+4/9/2018 0:05,2018,4,Hyderabad,,Circle,9/13/2018
+4/7/2018 20:00,2018,4,Park Forest,IL,Circle,4/13/2018
+4/7/2018 1:00,2018,4,Allegan,MI,Triangle,4/13/2018
+4/5/2018 0:00,2018,4,Richmond,VA,Circle,4/13/2018
+4/2/2018 21:00,2018,4,Waterford,CT,Circle,4/13/2018
+4/1/2018 20:30,2018,4,Fresno,CA,Circle,4/5/2018
+5/31/2018 21:33,2018,5,Lamoine,ME,Triangle,6/21/2018
+5/31/2018 10:00,2018,5,Aurora,CO,Circle,6/1/2018
+5/30/2018 23:56,2018,5,London (Canada),ON,Triangle,6/1/2018
+5/30/2018 23:15,2018,5,North Myrtle Beach,SC,Circle,6/1/2018
+5/30/2018 23:00,2018,5,Sarasota,FL,Circle,6/7/2018
+5/30/2018 22:00,2018,5,Clarksburg,MD,Triangle,6/1/2018
+5/29/2018 21:39,2018,5,Garden City,SC,Circle,5/31/2018
+5/29/2018 6:00,2018,5,Wichita,KS,Circle,5/31/2018
+5/29/2018 0:00,2018,5,Phoenix,AZ,Circle,5/31/2018
+5/29/2018 0:00,2018,5,Dublin (Ireland),,Circle,5/31/2018
+5/28/2018 8:45,2018,5,Warren,MI,Circle,5/31/2018
+5/28/2018 1:58,2018,5,Louisville,KY,Circle,5/31/2018
+5/27/2018 10:00,2018,5,Dade City,FL,Circle,5/31/2018
+5/26/2018 23:00,2018,5,Auburn,WA,Circle,5/31/2018
+5/26/2018 21:30,2018,5,Bremerton,,Triangle,5/31/2018
+5/26/2018 21:00,2018,5,Windsor (Canada),ON,Circle,5/31/2018
+5/26/2018 18:24,2018,5,,WA,Circle,5/31/2018
+5/26/2018 16:00,2018,5,London (UK/England),,Circle,5/31/2018
+5/24/2018 12:00,2018,5,Kea’au,HI,Triangle,9/13/2018
+5/24/2018 9:35,2018,5,Fresno,CA,Circle,5/31/2018
+5/24/2018 0:00,2018,5,Richmond (outside of),VA,Triangle,6/1/2018
+5/23/2018 22:36,2018,5,Moore,OK,Triangle,5/31/2018
+5/23/2018 17:30,2018,5,Los Angeles,CA,Circle,5/31/2018
+5/23/2018 14:50,2018,5,Sheffield (UK/England),,Triangle,5/31/2018
+5/23/2018 0:53,2018,5,Imboden,AR,Circle,5/31/2018
+5/22/2018 0:16,2018,5,Imboden,AR,Circle,5/31/2018
+5/21/2018 21:00,2018,5,Myrtle Beach,SC,Circle,6/7/2018
+5/21/2018 17:40,2018,5,Grandmound/Rochester,WA,Circle,5/31/2018
+5/19/2018 22:00,2018,5,Wheeling,IL,Circle,5/31/2018
+5/19/2018 22:00,2018,5,Grand junction,CO,Circle,5/31/2018
+5/19/2018 21:53,2018,5,Shelton,CT,Circle,6/15/2018
+5/18/2018 22:00,2018,5,New York City,NY,Circle,5/31/2018
+5/18/2018 21:45,2018,5,Dover,PA,Triangle,5/31/2018
+5/13/2018 19:00,2018,5,Toronto (Canada),ON,Circle,5/15/2018
+5/13/2018 13:00,2018,5,Chipman (Canada),NB,Circle,6/21/2018
+5/12/2018 20:45,2018,5,Farmington,MO,Circle,5/15/2018
+5/11/2018 21:00,2018,5,Farmington,MO,Triangle,5/15/2018
+5/11/2018 1:00,2018,5,Glendo (15 miles S of; I-25),WY,Triangle,5/15/2018
+5/11/2018 0:30,2018,5,Karmala,MO,Circle,5/15/2018
+5/11/2018 0:00,2018,5,Gladstone,MO,Circle,5/15/2018
+5/10/2018 0:00,2018,5,Rhenock (India),,Circle,5/15/2018
+5/8/2018 2:50,2018,5,Jerome,ID,Triangle,5/10/2018
+5/8/2018 2:50,2018,5,Jerome,ID,Triangle,5/10/2018
+5/7/2018 17:00,2018,5,Pueblo West,CO,Triangle,5/10/2018
+5/5/2018 22:00,2018,5,Matteson,IL,Triangle,7/13/2018
+5/5/2018 21:33,2018,5,Estill Springs,TN,Triangle,5/15/2018
+5/4/2018 23:59,2018,5,Reno,NV,Circle,5/10/2018
+5/4/2018 21:45,2018,5,Wyoming,MN,Triangle,5/10/2018
+5/4/2018 21:00,2018,5,Chapin,SC,Circle,5/10/2018
+5/3/2018 21:25,2018,5,Laconia,NH,Circle,5/10/2018
+5/3/2018 21:15,2018,5,Bullhead City,AZ,Circle,5/4/2018
+5/1/2018 23:00,2018,5,Lawrenceville,GA,Circle,5/31/2018
+2/27/2018 21:30,2018,2,State College,PA,Triangle,3/2/2018
+2/27/2018 19:00,2018,2,Villa Rica,GA,Triangle,3/2/2018
+2/27/2018 19:00,2018,2,Chicago,IL,Triangle,3/2/2018
+2/27/2018 19:00,2018,2,Escondido,CA,Circle,3/2/2018
+2/26/2018 15:00,2018,2,Greeley,CO,Circle,3/2/2018
+2/25/2018 21:41,2018,2,Mulberry,IN,Triangle,3/2/2018
+2/25/2018 18:00,2018,2,Underwood,IN,Triangle,3/2/2018
+2/25/2018 10:20,2018,2,PyeongChang (South Korea),,Circle,3/23/2018
+2/25/2018 0:18,2018,2,Boston,MA,Circle,3/2/2018
+2/24/2018 15:00,2018,2,Virginia Beach,VA,Triangle,3/2/2018
+2/23/2018 18:45,2018,2,Wenatchee,WA,Triangle,3/2/2018
+2/21/2018 23:50,2018,2,Virginia Beach,VA,Triangle,2/22/2018
+2/21/2018 20:00,2018,2,Rochester,NY,Triangle,4/13/2018
+2/21/2018 19:00,2018,2,Walkerton,VA,Triangle,3/21/2019
+2/19/2018 7:20,2018,2,Southbury/Watertown,CT,Circle,2/22/2018
+2/18/2018 17:47,2018,2,Fort Collins,CO,Circle,2/22/2018
+2/18/2018 11:30,2018,2,Westbury,NY,Circle,2/22/2018
+2/18/2018 3:21,2018,2,Natchez,MS,Triangle,4/26/2018
+2/17/2018 22:15,2018,2,Bordeaux (France),,Triangle,2/22/2018
+2/17/2018 19:20,2018,2,Colorado Springs,CO,Circle,2/22/2018
+2/17/2018 16:30,2018,2,Elk Grove,CA,Circle,2/22/2018
+2/13/2018 20:39,2018,2,McPherson,KS,Triangle,2/16/2018
+2/13/2018 20:30,2018,2,Oak Harbor,WA,Triangle,2/16/2018
+2/12/2018 21:00,2018,2,Pico Rivera,CA,Circle,2/16/2018
+2/12/2018 21:00,2018,2,Pico Rivera,CA,Circle,2/16/2018
+2/12/2018 2:00,2018,2,Trinidad (close to NM border),CO,Triangle,9/13/2018
+2/11/2018 3:00,2018,2,Wood Ranch,CA,Triangle,2/16/2018
+2/10/2018 23:30,2018,2,Virginia Beach,VA,Triangle,3/8/2018
+2/10/2018 12:30,2018,2,Tunwater,WA,Triangle,2/16/2018
+2/9/2018 18:00,2018,2,Roanoke Rapids,NC,Circle,2/16/2018
+2/9/2018 0:00,2018,2,Fredon,NJ,Triangle,2/16/2018
+2/8/2018 20:35,2018,2,Mena,AR,Triangle,2/16/2018
+2/8/2018 20:30,2018,2,Mena,AR,Triangle,2/16/2018
+2/8/2018 18:30,2018,2,Bolton,MA,Triangle,2/16/2018
+2/7/2018 0:00,2018,2,Mesa,AZ,Circle,2/16/2018
+2/6/2018 20:50,2018,2,Livingston,CA,Circle,2/16/2018
+2/6/2018 19:00,2018,2,Lake Worth,FL,Triangle,2/16/2018
+2/5/2018 18:40,2018,2,Columbus,OH,Circle,2/22/2018
+2/5/2018 7:00,2018,2,Oakhill,NY,Circle,1/4/2019
+2/5/2018 6:55,2018,2,Fort Worth,TX,Circle,2/16/2018
+2/4/2018 11:45,2018,2,Salt Lake City,UT,Triangle,2/16/2018
+2/4/2018 7:35,2018,2,Williston,FL,Circle,2/16/2018
+2/1/2018 5:00,2018,2,Delaware Water Gap (I-80 west),PA,Triangle,2/16/2018
+2/1/2018 3:01,2018,2,Harrisonville,MO,Triangle,5/31/2018
+1/30/2018 21:30,2018,1,Bonsall,CA,Triangle,2/16/2018
+1/30/2018 21:00,2018,1,Lafayette,IN,Triangle,2/16/2018
+1/30/2018 20:15,2018,1,Bonsall,CA,Triangle,2/16/2018
+1/30/2018 17:40,2018,1,Szczecin (Poland),,Triangle,2/16/2018
+1/30/2018 12:00,2018,1,Bryceville,FL,Circle,2/16/2018
+1/29/2018 22:00,2018,1,Holdingford,MN,Circle,2/16/2018
+1/29/2018 3:00,2018,1,Pella,IA,Circle,2/16/2018
+1/28/2018 19:20,2018,1,Woodland Park,CO,Circle,2/16/2018
+1/26/2018 21:40,2018,1,Bloomington (just N of; on I-55 N),IL,Triangle,2/16/2018
+1/26/2018 7:45,2018,1,Temple,NH,Circle,2/16/2018
+1/26/2018 6:20,2018,1,Fairbanks,AK,Circle,2/16/2018
+1/25/2018 17:30,2018,1,East Monroe,OH,Circle,2/16/2018
+1/25/2018 16:30,2018,1,Black River Falls,WI,Triangle,2/16/2018
+1/25/2018 5:00,2018,1,Rosedale,MS,Triangle,2/16/2018
+1/24/2018 18:30,2018,1,Oak Hills,CA,Circle,2/22/2018
+1/24/2018 5:44,2018,1,San Jose,CA,Triangle,1/25/2018
+1/23/2018 20:00,2018,1,Frederick,MD,Circle,1/25/2018
+1/23/2018 2:00,2018,1,North Haven,CT,Circle,1/25/2018
+1/22/2018 20:00,2018,1,Knoxville,TN,Circle,1/25/2018
+1/22/2018 19:30,2018,1,Buckhannon,WV,Circle,1/25/2018
+1/22/2018 19:00,2018,1,Columbus,OH,Triangle,1/25/2018
+1/22/2018 3:30,2018,1,Yakima,WA,Circle,1/25/2018
+1/21/2018 14:05,2018,1,Cody,WY,Circle,1/25/2018
+1/21/2018 3:08,2018,1,Central City,AR,Circle,1/25/2018
+1/20/2018 21:20,2018,1,Austin,TX,Triangle,8/10/2018
+1/20/2018 20:20,2018,1,Barrow-in-Furness,NY,Triangle,5/31/2018
+1/20/2018 20:00,2018,1,Barrow-in-Furness (UK/England),,Triangle,1/25/2018
+1/20/2018 19:00,2018,1,Poultney,VT,Circle,1/25/2018
+1/19/2018 20:35,2018,1,Carthage,NC,Triangle,1/25/2018
+1/19/2018 7:49,2018,1,Tampa,FL,Circle,1/25/2018
+1/19/2018 7:35,2018,1,Orlando,FL,Circle,1/25/2018
+1/18/2018 22:44,2018,1,Bel Air,MD,Triangle,1/25/2018
+1/18/2018 18:45,2018,1,Rollinsford,NH,Triangle,1/25/2018
+1/18/2018 6:40,2018,1,Cambridge,MN,Triangle,1/25/2018
+1/18/2018 1:02,2018,1,Roanoke,VA,Triangle,1/18/2018
+1/17/2018 19:35,2018,1,Vero Beach,FL,Triangle,1/18/2018
+1/17/2018 1:30,2018,1,Tacoma,WA,Triangle,1/18/2018
+1/16/2018 21:00,2018,1,Loveland,CO,Circle,1/25/2018
+1/16/2018 8:00,2018,1,Sharptown,MD,Circle,1/16/2018
+1/15/2018 21:00,2018,1,Northbridge,MA,Circle,4/13/2018
+1/14/2018 11:45,2018,1,Wilmington,MA,Circle,1/15/2018
+1/14/2018 0:00,2018,1,Frederick,MD,Circle,1/15/2018
+1/13/2018 22:00,2018,1,Grand Rapids,MI,Circle,1/16/2018
+1/13/2018 20:30,2018,1,Port Saint Lucie,FL,Circle,1/14/2018
+1/13/2018 20:30,2018,1,Concord,NH,Triangle,1/25/2018
+1/13/2018 19:30,2018,1,Coal Creek,CO,Circle,2/16/2018
+1/13/2018 12:45,2018,1,Pasadena,CA,Circle,1/14/2018
+1/11/2018 7:30,2018,1,Morristown,NJ,Triangle,1/12/2018
+1/10/2018 22:33,2018,1,Somerville,NJ,Triangle,1/14/2018
+1/10/2018 19:20,2018,1,Oakland (Canada),NB,Circle,1/12/2018
+1/10/2018 17:30,2018,1,Pittsburgh,PA,Triangle,1/12/2018
+1/9/2018 21:15,2018,1,Fayetteville,NC,Circle,1/12/2018
+1/8/2018 18:00,2018,1,Ballanger County line,WA,Triangle,1/12/2018
+1/7/2018 20:07,2018,1,Port St. Lucie,FL,Circle,1/12/2018
+1/7/2018 7:00,2018,1,Underwood,IA,Triangle,1/12/2018
+1/7/2018 0:10,2018,1,Canberra (Australia),,Triangle,1/12/2018
+1/6/2018 6:15,2018,1,Claremore,OK,Triangle,1/12/2018
+1/4/2018 22:45,2018,1,Raleigh,NC,Circle,1/12/2018
+1/4/2018 20:00,2018,1,Farmington,AR,Triangle,1/12/2018
+1/4/2018 6:12,2018,1,Tulsa,OK,Triangle,2/27/2019
+1/3/2018 17:15,2018,1,Harleysville,PA,Circle,1/12/2018
+1/3/2018 0:10,2018,1,Spalding (UK/England),,Triangle,1/12/2018
+1/2/2018 22:20,2018,1,Sparta,TN,Triangle,1/12/2018
+1/2/2018 19:30,2018,1,Brown Deer,WI,Triangle,1/12/2018
+1/2/2018 19:00,2018,1,Campinas (Brasil),KY,Triangle,11/24/2018
+1/1/2018 21:29,2018,1,Las Vegas,NV,Circle,1/12/2018
+1/1/2018 16:41,2018,1,Seattle,WA,Circle,1/12/2018
+1/1/2018 9:00,2018,1,Brodnax,VA,Circle,1/12/2018
+1/1/2018 1:30,2018,1,Orlando,FL,Circle,1/12/2018
+1/1/2018 0:25,2018,1,Mooresville,NC,Triangle,1/12/2018
+1/1/2018 0:04,2018,1,Port Charlotte,FL,Circle,1/12/2018

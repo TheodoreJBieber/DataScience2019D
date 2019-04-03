@@ -1,0 +1,21 @@
+'''
+Code to trim data from http://www.nuforc.org/webreports/ndxsCircle.html grabbed with https://github.com/RaInta/National_UFO_Reporting_Center/
+
+Data we want:
+
+Date/Time: Between: January 1 2018 and August 31 2018
+Shape: Circles OR Triangles
+
+Collect this data:
+Date of Sighting
+Time of Sighting
+City
+State
+Shape
+Summary
+Posted Date
+
+This means, we want to remove duration and url
+
+Used excel to trim the data into around 400 rows
+'''
