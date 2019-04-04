@@ -26,6 +26,8 @@ p2 = ax.bar(ind+width, tcount, width, color='y', bottom=0*cm)
 difference = (ufo_df['posted'] - ufo_df['date_time'])
 
 ax.set_title("Distribution of UFO reports by month")
+plt.xlabel("Month")
+plt.ylabel("# Reports")
 ax.set_xticks(ind + width / 2)
 ax.set_xticklabels(('Jan', 'Feb', 'March', 'April', 'May', 'June', 'July', 'Aug'))
 
